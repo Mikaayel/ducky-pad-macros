@@ -1,0 +1,4 @@
+WINDOWS 2
+DELAY 200
+STRING npm run test --watch
+ENTER
