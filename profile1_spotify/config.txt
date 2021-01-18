@@ -1,9 +1,0 @@
-z1 open
-z4 vol dow
-z5 mute
-z6 vol up
-z7 <<
-z8 ||
-z9 >>
-BG_COLOR 0 128 255
-SWCOLOR_1 255 0 0
